@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **.Net , Rust**
 
-- 📫 How to reach me **omarshamkh2510@gmail.com**
-
 - ⚡ Fun fact **Love Playing Football more than you!**
 
 <h3 align="left">Connect with me:</h3>
