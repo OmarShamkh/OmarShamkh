@@ -1,13 +1,6 @@
 <h1 align="center">Salamo Alakom 👋, I'm Omar Shamkh</h1>
 <h4 align="center">Passionate Software Engineer with a strong background in Algorithms and Data Structures. Proven track record in programming competitions ACM ECPC, ACPC, and Google Hash Code. </h4>
 
-
-- 🔭 I’m currently working on [Quranic Search](https://quranicsearch.azurewebsites.net/)
-
-- 🌱 I’m currently learning **.Net , Rust**
-
-- ⚡ Fun fact **Love Playing Football more than you!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/omarshamkh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/omarshamkh/" height="30" width="40" /></a>
