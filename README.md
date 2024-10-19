@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.Net , Rust**
 
-- 👨‍💻 All of my projects are available at [https://polite-cliff-067981b0f.5.azurestaticapps.net/](https://polite-cliff-067981b0f.5.azurestaticapps.net/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://white-bay-06187740f.5.azurestaticapps.net/)
 
 - 📫 How to reach me **omarshamkh2510@gmail.com**
 
