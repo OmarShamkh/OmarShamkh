@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.Net , Rust**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://white-bay-06187740f.5.azurestaticapps.net/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://heartfelt-bublanina-f08d7e.netlify.app/)
 
 - 📫 How to reach me **omarshamkh2510@gmail.com**
 
