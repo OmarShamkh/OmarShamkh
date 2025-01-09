@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[Quranic Search](https://omarshamkh.github.io/quran-search-app/)**, a project to make Quranic text search more accessible.
 - 🌱 I’m continuously learning and exploring new technologies in backend development, cloud computing, and DevOps.
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://omarshamkh.github.io/portofolio)**.
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shamkhx.vercel.app/)**.
 - 📫 How to reach me: **omarshamkh2510@gmail.com**
 - ⚡ Fun fact: I love playing football more than you do! ⚽
 
